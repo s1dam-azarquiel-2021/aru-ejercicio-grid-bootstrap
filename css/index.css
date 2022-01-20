@@ -1,0 +1,22 @@
+.bg-purple {
+	background-color: #723fc8;
+}
+
+.card {
+	height: 100%;
+}
+
+.card img {
+	width: 4em;
+	height: 4em;
+}
+
+.card img.border {
+	border-width: 3px !important;
+}
+
+.card-header {
+	background-color: transparent;
+	border-bottom: 0;
+	padding-bottom: 0;
+}
